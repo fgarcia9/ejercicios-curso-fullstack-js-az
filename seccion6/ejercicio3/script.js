@@ -1,10 +1,10 @@
 /*strings */
 
-let country = "Spain";
+let message = "Hi, my name is Francisco";
 
-console.log(country);
-console.log(country[1]);
-console.log(country.charAt(2));
+console.log(message.search("Hi"));
+console.log(message.indexOf("my"));
+console.log(message.lastIndexOf("is"));
 
 
 

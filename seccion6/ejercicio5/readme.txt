@@ -1,0 +1,1 @@
+ejercicio iterar objeto javascript
